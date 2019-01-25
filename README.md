@@ -10,4 +10,4 @@ Read a text file, split the input text content into sentences and then for each 
 6. All the synonyms for every adjective of the sentence.
 7. Antonym of every adjective in the sentence.
 8. All the entities in the sentence.
-9. Find the intent of the sentence – (Ex: “I would like to work for Fragma Data Systems” : Here the intent of the sentence is ‘To work for’, the entity that the intent is aimed at is ‘Fragma Data Systems’ and the Subject of the intent is ‘I’)
+9. Find the intent of the sentence – (Ex: “I would like to work for XYZ” : Here the intent of the sentence is ‘To work for’, the entity that the intent is aimed at is ‘XYZ’ and the Subject of the intent is ‘I’)
