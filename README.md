@@ -1,7 +1,7 @@
 # intent_extraction
 
 The objective of this Python script is to do the following:
-Read a text file, split the input text content into sentences and then and for sentence print the following features.
+Read a text file, split the input text content into sentences and then for each sentence print the following features.
 1. All the nouns in the Sentence.
 2. All the verbs in the sentence.
 3. All the stop words that appear in the sentence
