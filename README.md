@@ -24,9 +24,9 @@ For example, Given “She asked George to respond to the offer”, the dependenc
 5.	Sorting these list of words gives the intent.
 
 Pros:
-•	It works reasonably well in simple declarative sentences. 
+*	It works reasonably well in simple declarative sentences. 
 Cons:
-•	Would not be able capture multiple intents in a single sentence, since we start at the root and capture related words. 
-•	For example: I like to work for XYZ and perform well. Here only “like to work” will be captured. 
-•	May capture some words not needed to intent, as part of aux or marker
-•	May not work for sentences in passive voice and sentences without proper subject-verb-object mentioned. 
+*	Would not be able capture multiple intents in a single sentence, since we start at the root and capture related words. 
+*	For example: I like to work for XYZ and perform well. Here only “like to work” will be captured. 
+*	May capture some words not needed to intent, as part of aux or marker
+*	May not work for sentences in passive voice and sentences without proper subject-verb-object mentioned. 
