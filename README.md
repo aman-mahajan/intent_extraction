@@ -23,9 +23,10 @@ For example, Given “She asked George to respond to the offer”, the dependenc
 4.	Post that I look at words connected to these verbs via either “aux” and “mark” relationships to capture auxiliary words like “will”, “would”, “should” etc.
 5.	Sorting these list of words gives the intent.
 
-Pros:
-*	It works reasonably well in simple declarative sentences. 
-Cons:
+### Pros:
+*	It works reasonably well in simple declarative sentences.
+
+### Cons:
 *	Would not be able capture multiple intents in a single sentence, since we start at the root and capture related words. 
 *	For example: I like to work for XYZ and perform well. Here only “like to work” will be captured. 
 *	May capture some words not needed to intent, as part of aux or marker
